@@ -21,7 +21,7 @@
 // const std::string wikipedia    wikipediaCode     wikipediaTree
 // const std::string constitution constitutionCode  constitutionTree
 
-TEST_CASE("Project 4 Test Cases for Huffman Coding") {
+TEST_CASE("Project 3 Test Cases for Huffman Coding") {
   HuffmanTree t;
 
   // Turing String Tests

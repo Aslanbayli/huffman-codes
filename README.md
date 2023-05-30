@@ -20,7 +20,7 @@ This will generate an `a.out` executable (or a.exe if on windows). From there yo
 
 ## Testing
 
-To be able to test the code in case you may want to make changes or imporvements to the algorithm, there are test located in `PP4Test.cpp` file. Afer you compile your code run the following command to run the test
+To be able to test the code in case you may want to make changes or imporvements to the algorithm, there are test located in `PP3Test.cpp` file. Afer you compile your code run the following command to run the test
 
 ```bash
 a.out -s
