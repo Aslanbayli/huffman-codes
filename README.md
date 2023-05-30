@@ -29,4 +29,4 @@ To be able to test the code in case you may want to make changes or imporvements
 After you run that. you will see something similar to this in
 your terminal
 
-![Test Output](./assets/test-image.png)
+<img width="676" alt="huffman-output" src="https://github.com/Aslanbayli/huffman-codes/assets/48028559/51638420-06ef-4b25-845d-34c792d68dde">
