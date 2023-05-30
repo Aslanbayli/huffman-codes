@@ -29,6 +29,4 @@ a.out -s
 After you run that. you will see something similar to this in
 your terminal
 
-![alt text][test-image]
-
-[test-image]: /assets/test-image.png
+![Test Output](./assets/test-image.png)
