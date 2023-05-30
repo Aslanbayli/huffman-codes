@@ -23,7 +23,7 @@ This will generate an `a.out` executable (or a.exe if on windows). From there yo
 To be able to test the code in case you may want to make changes or imporvements to the algorithm, there are test located in `PP3Test.cpp` file. Afer you compile your code run the following command to run the test
 
 ```bash
-a.out -s
+./a.out -s
 ```
 
 After you run that. you will see something similar to this in
